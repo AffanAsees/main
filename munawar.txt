@@ -3,6 +3,4 @@ aur thods kaam karditya
 aakhe laal abkaali raat hojaigii
 
 
-added again some commit
-
-i need to add only this commit in the master brach
+added again some
